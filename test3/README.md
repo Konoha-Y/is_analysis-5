@@ -69,7 +69,7 @@ Borrow_借阅信息类  <... admin_图书管理员:可进行所有操作
 
 ### 1.2. 类图如下：
 
-![class](class1.png)
+![class](111.png)
 
 ### 1.3. 类图说明：
 ``` 
@@ -95,7 +95,7 @@ class Book_图书信息类{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class2.png)
+![class](222.png)
 
 #### 说明：
 ``` 
@@ -116,7 +116,7 @@ class Reader_借阅者{
 }
 ``` 
 #### 对象图如下：
-![class](class3.png)
+![class](333.png)
 
 ### 2.3 借阅信息类的对象图
 #### 源码如下：
@@ -137,7 +137,7 @@ class Borrow_借阅信息类{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class4.png)
+![class](444.png)
 
 ### 2.4 图书管理员类的对象图
 #### 源码如下：
@@ -155,7 +155,7 @@ class admin_图书管理员{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class5.png)
+![class](555.png)
 
 ### 2.5 图书描述类的对象图
 #### 源码如下：
@@ -173,5 +173,5 @@ class BookDescribeInfo_图书描述{
 @enduml
 ``` 
 #### 对象图如下：
-![class](class6.png)
+![class](666.png)
 
