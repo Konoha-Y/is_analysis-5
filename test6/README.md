@@ -15,7 +15,7 @@
 ## 2. 系统总体结构
 ![flow1](./系统总体结构图.png)
 
-界面设计参见：https://huangyihuan11.github.io/is_analysis/test6/ui/选择登陆页面.html
+界面设计参见：https://huangyihuan11.github.io/is_analysis/test6/ui/选择角色登陆.html
 
 ## 3. 用例图设计 [源码](./src/UseCase.puml)
 ![](UseCase1.png)
