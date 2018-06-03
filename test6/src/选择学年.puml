@@ -1,0 +1,7 @@
+@startuml
+title 基于GitHub的实验管理平台--选择学期用例的顺序图
+actor user
+user -> termyear:得到相关学年
+termyear->user:反馈学年的信息
+
+@enduml

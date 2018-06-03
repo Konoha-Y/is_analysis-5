@@ -1,0 +1,9 @@
+@startuml
+title 基于GitHub的实验管理平台--课程信息用例的顺序图
+actor user
+user -> college:选择学院
+college->professional:选择专业
+professional->termyear:选择学年
+termyear->courses:选择课程
+courses->user:该用户所选专业课程
+@enduml

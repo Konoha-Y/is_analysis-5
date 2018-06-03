@@ -1,0 +1,7 @@
+@startuml
+title 基于GitHub的实验管理平台--选择学期用例的顺序图
+actor user
+user -> college:选择学院
+college->Professional:选择专业
+Professional->user:反馈专业的信息
+@enduml
